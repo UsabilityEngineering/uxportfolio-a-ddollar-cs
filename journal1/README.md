@@ -1,5 +1,5 @@
 # An Alien Looking Computer
 Austin Dollar Journal 1 - 2/15/20
 
-![picture of my keyboard](assets/keyboardalienware.jpg "Picture of My Keyboard")
+![Picture of my Keyboard](https://github.com/UsabilityEngineering/uxportfolio-a-ddollar-cs/blob/master/assets/keyboardalienware.jpg "Picture of My Keyboard")
 
