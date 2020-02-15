@@ -1,2 +1,4 @@
-# First Journal Entry
-This is my first journal entry
+# An Alen Looking Computer
+Austin Dollar Journal 1 - 2/15/20
+
+
