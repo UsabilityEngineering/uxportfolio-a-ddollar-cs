@@ -10,3 +10,6 @@ Hi my name is Austin Dollar, I am a Computer Science Major, this is my second se
 ## UX Journal
 
 [This is my First Journal Entry](journal1/)
+
+
+
