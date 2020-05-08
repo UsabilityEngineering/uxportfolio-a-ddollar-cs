@@ -15,4 +15,4 @@ Hi my name is Austin Dollar, I am a Computer Science Major, this is my second se
 [This is my Second Journal Entry](journal2/)
 
 
-
+[This is my Third Journal Entry](journal3/)
